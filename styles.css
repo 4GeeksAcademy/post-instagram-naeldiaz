@@ -1,0 +1,96 @@
+body {
+    width: 550px;
+    margin:0 auto;
+    background-color: black;
+    font-family: meriendaclear;
+}
+
+.post {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5%;
+
+}
+
+.post-heather {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.log {
+    width: 40px;
+    height: 40px;
+    margin-top: 3%;
+}
+
+.log img {
+    width: 40px;
+    height: 40px;
+}
+
+.name {
+    width: 50px;
+    margin-left: -70%;
+
+}
+
+.points {
+    margin-top:3%;
+    width: 40px;
+
+}
+.points i{
+    
+    font-size: 30px;
+}
+
+.post-image {
+   width: 550px;
+   height: 500px;
+    
+}
+.post-image  img{
+    width: 550px;
+    height:500px;
+}
+
+.post-body {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: white;
+}
+
+.post-icon {
+    width: 100%;
+    margin-top: 5%;
+    height: 40px;
+}
+
+.post-icon i {
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    color: black;
+    margin-left: 3%;
+}
+
+#icono-ultimo {
+    margin-left:60%;
+}
+
+.post-icon-info {
+    width: 100%;
+    margin-left:2%;
+    margin-right: 2%;
+}
+
+.post-icon-comment {
+    width: 100%;
+}
